@@ -1,12 +1,43 @@
-# React + Vite
+# 🌐 Text Translator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern React-based Text Translator app powered by the **Free Google Translator API** via RapidAPI. Users can translate text between English and various Indian and international languages, with support for two-way translation.
 
-Currently, two official plugins are available:
+## 🔧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔁 Translate from English to 10+ Indian languages
+- 🔁 One-click **language switch** (e.g., Hindi ⇄ English)
+- 📱 Clean & responsive UI with **Tailwind CSS**
+- 🌐 Uses **RapidAPI** for translation backend
+- ⚡ Dynamic language dropdown
 
-## Expanding the ESLint configuration
+## 🧠 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- Axios
+- RapidAPI (Free Google Translator API)
+
+## 🗣️ Supported Languages
+- Hindi
+- Marathi
+- Bengali
+- Tamil
+- Telugu
+- Kannada
+- Gujarati
+- Malayalam
+- Punjabi
+- Urdu
+- More
+
+## 📷 Preview
+
+![Preview Screenshot](/Text%20Translator%20App/src/assets/image.png)
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/jawad-js/text-translator-app.git
+cd text-translator-app
+npm install
+npm run dev
