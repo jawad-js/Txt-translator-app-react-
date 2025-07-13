@@ -32,7 +32,7 @@ This is a modern React-based Text Translator app powered by the **Free Google Tr
 
 ## 📷 Preview
 
-![Preview Screenshot](/Text%20Translator%20App/src/assets/image.png)
+![Preview Screenshot](./image.png)
 
 ## 🚀 Getting Started
 
