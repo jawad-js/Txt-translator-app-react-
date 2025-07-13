@@ -30,10 +30,6 @@ This is a modern React-based Text Translator app powered by the **Free Google Tr
 - Urdu
 - More
 
-## 📷 Preview
-
-![Preview Screenshot](./image.png)
-
 ## 🚀 Getting Started
 
 ```bash
